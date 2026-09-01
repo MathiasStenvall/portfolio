@@ -1,4 +1,4 @@
-colorScheme = "blowfish"
+colorScheme = "terminal"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableA11y = false
