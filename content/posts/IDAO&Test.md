@@ -1,5 +1,5 @@
 ---
-title: 4th Entry
+title: IDAO & Test
 weight: 1
 date: 2026-08-29
 draft: false

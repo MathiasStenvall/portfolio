@@ -1,5 +1,5 @@
 ---
-title: 5th Entry
+title: Domain diagram & Entities
 weight: 1
 date: 2026-08-31
 draft: false

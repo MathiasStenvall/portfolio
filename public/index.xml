@@ -1,60 +1,90 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Frontpage on RSLV</title>
+    <title>RSLV</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Frontpage on RSLV</description>
+    <description>Recent content on RSLV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Mathias Theil Stenvall</copyright>
-    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>5th Entry</title>
-      <link>http://localhost:1313/posts/5th-entry/</link>
+      <title>Exception Mapping &amp; Logging</title>
+      <link>http://localhost:1313/posts/exceptionmappinglogging/</link>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/exceptionmappinglogging/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Threads &amp; My API</title>
+      <link>http://localhost:1313/posts/threadsmyapi/</link>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/threadsmyapi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DTO &amp; DAO</title>
+      <link>http://localhost:1313/posts/dtodao/</link>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/dtodao/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>API &amp; Enum</title>
+      <link>http://localhost:1313/posts/apienum/</link>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/apienum/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>US &amp; AC</title>
+      <link>http://localhost:1313/posts/usac/</link>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/usac/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JPA &amp; LLM</title>
+      <link>http://localhost:1313/posts/jpallm/</link>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/jpallm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Domain diagram &amp; Entities</title>
+      <link>http://localhost:1313/posts/ddentities/</link>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/5th-entry/</guid>
+      <guid>http://localhost:1313/posts/ddentities/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>4th Entry</title>
-      <link>http://localhost:1313/posts/4th-entry/</link>
+      <title>IDAO &amp; Test</title>
+      <link>http://localhost:1313/posts/idaotest/</link>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/4th-entry/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>3rd Entry</title>
-      <link>http://localhost:1313/posts/3rd-entry/</link>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/3rd-entry/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>2nd Entry</title>
-      <link>http://localhost:1313/posts/2nd-entry/</link>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/2nd-entry/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>1st Entry</title>
-      <link>http://localhost:1313/posts/1st-entry/</link>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/1st-entry/</guid>
+      <guid>http://localhost:1313/posts/idaotest/</guid>
       <description></description>
       
     </item>
@@ -65,6 +95,16 @@
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Structure, Diagrams &amp; Frontend</title>
+      <link>http://localhost:1313/posts/structurediagramsfrontend/</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/structurediagramsfrontend/</guid>
       <description></description>
       
     </item>
