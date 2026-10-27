@@ -7,7 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Mathias Theil Stenvall</copyright>
-    <lastBuildDate>Mon, 05 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>REST, DAO and JWT deployed secret</title>
+      <link>http://localhost:1313/posts/rest-dao-jwt/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/rest-dao-jwt/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JWT, Login &amp; Register</title>
+      <link>http://localhost:1313/posts/jwt/</link>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/jwt/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CI/CD</title>
+      <link>http://localhost:1313/posts/pipeline/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/pipeline/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Custom Exception &amp; Endpoints</title>
+      <link>http://localhost:1313/posts/customexceptionendpoints/</link>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/customexceptionendpoints/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Concurrency</title>
+      <link>http://localhost:1313/posts/concurrency/</link>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/concurrency/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Exception Mapping &amp; Logging</title>
